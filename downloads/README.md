@@ -1,7 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [100MB](./100MB)
-- [archive_20260506_163255](./archive_20260506_163255)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
