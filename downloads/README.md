@@ -1,8 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [7048715e-f2dc-4c97-9393-271a794c3dec](./7048715e-f2dc-4c97-9393-271a794c3dec)
-- [chrome-linux64](./chrome-linux64)
-- [google-chrome-stable_current_amd64](./google-chrome-stable_current_amd64)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
