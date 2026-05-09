@@ -1,10 +1,6 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [google-chrome-stable_current_amd64](./google-chrome-stable_current_amd64)
 
 ---
 
